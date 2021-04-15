@@ -1,1 +1,2 @@
 # alphafold_project
+Encountered an issue with startup.sh. The issue can be found on the last line of the startup.sh error file.I did not understand the issue as I changed the code to make sure it matched the original run_eval.sh code minus what you added. Tried running the code using my chosen targets using the original code and had no issues but did not get far with startup.sh. Did I miss anything?
